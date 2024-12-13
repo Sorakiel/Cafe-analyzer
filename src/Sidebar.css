@@ -1,0 +1,13 @@
+.sidebar {
+	height: 100%;
+}
+.sidebarItem {
+	text-align: center;
+	line-height: 80px;
+	font-size: 27px;
+	height: 80px;
+	width: 500px;
+}
+.sidebarItem:hover {
+	background: #e8d8c4;
+}
